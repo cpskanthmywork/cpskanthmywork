@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cpskanthmywork
+- 👋 Hi, I’m Srikanth C Prabhakar
 - 👀 I’m interested in Testing, Travel, Photography, eating different varity of food.
 - 🌱 I’m currently learning Automation.
 - 💞️ I’m looking to collaborate on ...
